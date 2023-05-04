@@ -1,0 +1,9 @@
+smiles,labels
+O=C1CCCCCCCCCCCCCCO1,1
+CNCC(=O)c1ccc(O)c(O)c1,1
+COc1ccc(S(=O)(=O)N2c3ccc(Cl)cc3[C@@](O)(c3ccccc3Cl)[C@H]2C(=O)N2CCC[C@@H]2C(N)=O)cc1OC,0
+CC(C)(OO)c1ccccc1,0
+CCNC(=O)NC(=O)/C(C#N)=N/OC,1
+Cc1cccc(C)c1NC(=O)CN1CCCC1=O,0
+Cc1ccccc1C(N)=O,0
+Cc1ncc([N+](=O)[O-])n1CCO,0
